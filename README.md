@@ -1,4 +1,4 @@
-# Certainly! Here's a 5-month (20-week) course syllabus with 1 month dedicated to Python and 4 months focused on Django:
+# 5-month (20-week) course syllabus with 1 month dedicated to Python and 4 months focused on Django:
 
 ## 5-Month Course Syllabus
 
