@@ -1,12 +1,9 @@
-# 6-month (24-week) course syllabus.
-
-
-## 6-Month Course Syllabus
+## 5-Month Course Syllabus
 
 ### Month 1 - Python Fundamentals and API Fundamentals
 
-| Week  | Topics                                                                                 |
-|-------|----------------------------------------------------------------------------------------|
+| Week  | Topics                                                                                     |
+|-------|--------------------------------------------------------------------------------------------|
 | Week 1| Introduction to Programming and Python: What is Python and why use it?, Installing Python and a code editor, Running your first Python program, Data Types and variables in Python |
 | Week 2| Strings, String methods, Integer, Float, List, Tuple, Dictionary, Sets, Data Type methods, Understanding mutability/immutability concepts          |
 | Week 3| Conditional Statements: if/elif/else statements, Loops: While, For, Concepts of iteration, Boolean expressions and logical operators, Ternary operators, List comprehensions, Error/Exception handling, Try/except concepts |
@@ -47,13 +44,3 @@
 | Week 2| Advanced API Concepts: Rate limiting, Versioning, API Documentation, Introduction to Django Relationships |
 | Week 3| Branch system in Git, Merge branches, Resolving merge conflicts in Github, Collaboration with Github |
 | Week 4| Docker, Docker Desktop, Containerization, Full deployment of DRF project, API Testing and Documentation, Implementing Django Relationships |
-
-### Month 6 - Capstone Project, Review, and Security Enhancement
-
-| Week  | Topics                                                                        |
-|-------|-------------------------------------------------------------------------------|
-| Week 1| Design Patterns, Asynchronous programming (asyncio), Security Best Practices |
-| Week 2| Capstone Project: Working on comprehensive Django projects, applying all the concepts learned throughout the course |
-| Week 3| Capstone Project (contd.): Finalizing the Django project, Implementing Enhanced Security Features |
-| Week 4| Course Review, Exam Preparation, and Final Presentations                        |
-
